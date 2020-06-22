@@ -3,3 +3,4 @@
 #So that my lazy ass does not forget the Leetcode daily problem
 export DISPLAY=:0
 xdg-open https://leetcode.com/explore/featured/card/june-leetcoding-challenge
+#For running the cron-job:0 */6 * * * /home/radone/leet.sh
