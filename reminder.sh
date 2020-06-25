@@ -1,0 +1,1 @@
+send-notify 'Exercise!' | at 7:30AM
