@@ -3,7 +3,7 @@
 d=`date`
 echo "-------------------The Plan------------------------">>dailyjournal.txt
 echo $d >>dailyjournal.txt
-echo Henlo Sakshi,tell us your tasks for today!
+echo Henlo tell us your tasks for today!
 echo Let us start with a number
 read tasks
 for (( i=1 ; i <=$tasks ; i++ ))
