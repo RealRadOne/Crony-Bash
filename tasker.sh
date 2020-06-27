@@ -1,7 +1,7 @@
 #!/bin/bash
 #This is a script to get in all my tasks for the day in a text file
 d=`date`
-echo "-------------------------------------------">>dailyjournal.txt
+echo "-------------------The Plan------------------------">>dailyjournal.txt
 echo $d >>dailyjournal.txt
 echo Henlo Sakshi,tell us your tasks for today!
 echo Let us start with a number
@@ -15,5 +15,9 @@ do
 	w=$task$s$priority
 	echo $w>>dailyjournal.txt
 done
-#There will be a script to show the text file and display it
-#At the end of the day so that I can mark the completed tasks
+echo "--------------------The Day-----------------------">>dailyjournal.txt
+#Calling the pomodoro timer script
+for ((i=1 ; i<= 36 ; i++))
+do
+	./timer.sh 
+done

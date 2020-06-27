@@ -7,6 +7,9 @@ do
 	sleep 5m
 done
 notify-send "25 minutes are over"
+echo "What did you do this pomodoro?"
+read task
+echo $task>>dailyjournal.txt
 sleep 15m
 notify-send "Break Over!"
 #A cron job will be running this 
