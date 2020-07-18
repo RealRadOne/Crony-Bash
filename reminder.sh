@@ -1,1 +1,3 @@
-send-notify 'Exercise!' | at 7:30AM
+#!/bin/bash
+#A bashy reminder
+read date

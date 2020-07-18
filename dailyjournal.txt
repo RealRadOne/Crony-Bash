@@ -1,0 +1,40 @@
+
+-------------------The Plan------------------------
+Monday 29 June 2020 05:53:33 AM IST
+CRUD DS LeetCode-----High
+LeetCode Daily-----High
+The Journey Of A Docker-----High
+Daily Vocab-----High
+Distinct Elements-----High
+Finish Algebra-----High
+Revise Quizlet Flashcards-----High
+More Bash+Cron-----Low
+--------------------The Day-----------------------
+Exercise
+Exercise
+H
+H
+-------------------The Plan------------------------
+Tuesday 30 June 2020 04:44:37 AM IST
+Create a data structure-----High
+Deriving Dockers-----High
+Distinct elements in every window of k-----High
+Word Power Made Easy-----High
+Distinct Elements-----Medium
+Revise Quizlet flashcards-----High
+Finish Algebra-----High
+Word Power Made Easy-----Low
+More Bash Scripting-----Low
+LeetCode Daily-----High
+-------------------The Plan------------------------
+Wednesday 08 July 2020 10:23:11 AM IST
+Subset Sum Zero-----High
+Deadly Designs-----Medium
+GRE Lessons-----High
+GRE Reading-----High
+Add C++ Code to HuffMan Coding-----High
+Add C++ Code for Brute Force Approach-----High
+Look for more projects-----Low
+LeetCode Daily-----High
+--------------------The Day-----------------------
+GRE Lesson
