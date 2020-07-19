@@ -11,6 +11,6 @@ All the scripts above can be run like any other scripts.The cron jobs are just a
 - Download the project
 - Get to the directory containing the files
 - Give the following set of commands
-  chmod +rx script_name.sh
+  chmod +rx script_name.sh\
   ./script_name.sh
-### In progress-A powershell version for Windows
+### In progress-A powershell version for Windows :)
