@@ -1,8 +1,8 @@
 # Crony-Bash
 Because I felt I could be lazy if I could make cron jobs run my scripts
 ## Cron-Jobs
-"They are a utility to schedule jobs at a specific time in Unix-like operating systems"
-The typical format being
+"They are a utility to schedule jobs at a specific time in Unix-like operating systems"\
+The typical format being\
 ![A normal CronJob-Format](https://www.ostechnix.com/wp-content/uploads/2018/05/cron-job-format-1.png)
 
 ## Executing The Scripts
